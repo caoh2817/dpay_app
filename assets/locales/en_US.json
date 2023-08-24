@@ -1,0 +1,17 @@
+{
+  "common": {
+    "an_error_occurred": "发生错误",
+    "please_define_description": "请定义描述",
+    "search": "搜索 (按下 \"ctrl + s\" 搜索)",
+    "versions": "版本"
+  },
+  "navbar": {
+    "home": "主页",
+    "my": "我的"
+  },
+  "buttons": {
+    "login": "Login",
+    "sign_in": "Sign-in",
+    "logout": "Logout"
+  }
+}

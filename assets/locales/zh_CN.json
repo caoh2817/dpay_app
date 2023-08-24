@@ -1,0 +1,17 @@
+{
+  "common": {
+    "an_error_occurred": "发生错误",
+    "page_not_found": "页面未找到",
+    "search": "搜索 (按下 \"ctrl + s\" 搜索)",
+    "versions": "版本"
+  },
+  "navbar": {
+    "home": "主页",
+    "my": "我的"
+  },
+  "buttons": {
+    "login": "登录",
+    "sign_in": "注册",
+    "logout": "注销"
+  }
+}
